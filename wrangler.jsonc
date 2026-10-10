@@ -4,6 +4,7 @@
   "name": "srl-discord-source-bridge",
   "main": "src/index.ts",
   "compatibility_date": "2026-08-26",
+"keep_vars": true,
   "triggers": {
     "crons": ["0 * * * *"],
   },
